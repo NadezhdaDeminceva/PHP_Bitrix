@@ -1,0 +1,2 @@
+<?
+$MESS["AUTHORIZATION"] = "Авторизация";

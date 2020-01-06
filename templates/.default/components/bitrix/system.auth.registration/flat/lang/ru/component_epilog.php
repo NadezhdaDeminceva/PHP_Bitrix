@@ -1,0 +1,2 @@
+<?
+$MESS["REGISTRATION"] = "Регистрация";
